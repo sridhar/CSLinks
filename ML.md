@@ -16,3 +16,7 @@ Courses taken in my ML journey
 2. [Datacamp: Option trading with spreadsheets](https://app.datacamp.com/learn/courses/options-trading-in-spreadsheets): Took a course to understand financial basis for doing domain specific modeling.
 3. [Datacamp: Introduction to Scala](https://app.datacamp.com/learn/courses/introduction-to-scala): Needed to interface bleeding edge scala libraries needed for pyspark ML training/inference.
 4. [Coursera: Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals): To figure out the state of Google tools.
+
+### NLP & GenAI
+1. [Haystack tutorials](https://haystack.deepset.ai/tutorials): This was the state of the art before all the LLM craze in 2023.
+2. [Langchain](https://python.langchain.com/docs/get_started/introduction.html): Most of the links here are easier to get through after I had already slogged through the Haystack tutorials. This is just wrappers on top of wrappers.
