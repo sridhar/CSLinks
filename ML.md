@@ -20,3 +20,4 @@ Courses taken in my ML journey
 ### NLP & GenAI
 1. [Haystack tutorials](https://haystack.deepset.ai/tutorials): This was the state of the art before all the LLM craze in 2023.
 2. [Langchain](https://python.langchain.com/docs/get_started/introduction.html): Most of the links here are easier to get through after I had already slogged through the Haystack tutorials. This is just wrappers on top of wrappers.
+3. [Deeplearning/Stable Diffusion](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/): Short course on stable diffusion by Andrew Ng.
